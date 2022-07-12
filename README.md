@@ -6,4 +6,4 @@ Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
 ### Contato
 
-(<img src= 'https://img.shields.io/badge/-IsabellaCecconi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imzcc/)
+[<img src= 'https://img.shields.io/badge/-IsabellaCecconi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imzcc/)](https://www.linkedin.com/in/imzcc-a2ba65235/)

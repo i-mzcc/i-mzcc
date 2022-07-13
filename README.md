@@ -2,9 +2,11 @@
 
 Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-mzcc&layout=compact)](https://github.com/i-mzcc/github-readme-stats)
+###### <s>em construção</s>
 
-###### <s>em montagem</s>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-mzcc)](https://github.com/i-mzcc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-mzcc&layout=compact)](https://github.com/i-mzcc/github-readme-stats)
 
 ### Contato
 

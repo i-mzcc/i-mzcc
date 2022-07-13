@@ -2,6 +2,8 @@
 
 Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-mzcc&layout=compact)](https://github.com/i-mzcc/github-readme-stats)
+
 ###### <s>em montagem</s>
 
 ### Contato

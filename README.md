@@ -8,6 +8,8 @@ Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-mzcc&layout=compact)](https://github.com/i-mzcc/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-mzcc&repo=github-readme-stats)](https://github.com/i-mzcc/github-readme-stats)
+
 ### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-IsabellaCecconi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imzcc/)](https://www.linkedin.com/in/imzcc/)

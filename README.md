@@ -2,6 +2,9 @@
 
 Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
+[![HTML Badge] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![CSS Badge] (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ###### <s>em construção</s>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-mzcc)](https://github.com/i-mzcc/github-readme-stats)

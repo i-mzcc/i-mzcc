@@ -9,7 +9,7 @@ Aprendiz de desenvolvimento dando os primeiros passos nesse universo!
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-mzcc&repo=devweek.github.io)](https://github.com/i-mzcc/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-mzcc&repo=devweek.github.io)](https://github.com/i-mzcc/devweek.github.io)
 
 ### Contato
 
